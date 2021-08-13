@@ -1,4 +1,5 @@
-# MasterClock for Synth DIY
+# MasterClockNG for Synth DIY
+Hi, i'm Warpeggio and i modified some code from @PierreIsCoding over at https://github.com/PierreIsCoding/sdiy. Most of this readme is from there as well :)
 Master Clock is an Arduino Nano based Eurorack clock module. It is a fairly simple but usefull module for any DIY synthesizer enthusiast.
 ## Features
 - 3 digit segment display
@@ -20,14 +21,8 @@ The following files are included:
 - Arduino Files
 - 3D print .STL files. I 3D print all my panels.
 ## Bugs & Fixes
-Please be informed that I, although having a technical background, am an electronics hobbyist. I build and share my project for fun and learning, so please let me know if you have any good improvements in mind!
-## Photos
-![Image of Master Clock](http://www.looklook.tv/images/master_1.jpg)
-![Image of Master Clock](http://www.looklook.tv/images/master_2.jpg)
-![Image of Master Clock](http://www.looklook.tv/images/master_3.jpg)
-![Image of Master Clock](http://www.looklook.tv/images/master_4.jpg)
-![Image of Master Clock](http://www.looklook.tv/images/master_5.jpg)
-![Image of Master Clock](http://www.looklook.tv/images/master_6.jpg)
-  
+Please be informed that @PierreIsCoding and @Warpeggio, although having a technical background, are hobbyists. We build and share this project for fun and learning, so please let us know if you have any good improvements in mind! Warpeggio had a blast playing with this code and hopes you do too. :)
+
+
   
   
