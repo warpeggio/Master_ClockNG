@@ -23,6 +23,8 @@ The following files are included:
 ## Bugs & Fixes
 Please be informed that @PierreIsCoding and @Warpeggio, although having a technical background, are hobbyists. We build and share this project for fun and learning, so please let us know if you have any good improvements in mind! Warpeggio had a blast playing with this code and hopes you do too. :)
 
+New Feature: MIDI clock output on pin D13. Wire this to a MIDI jack in the standard way with a 220-ohm resistor.
+
 Fixed: Swing sounds pretty good!
 
 New bug: The frequency output is slightly slower than the displayed BPM. The quantization seems to indicate rounding errors, and is probably deeply related to Warpeggios beat subdivision scheme.
