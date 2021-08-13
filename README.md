@@ -24,7 +24,9 @@ The following files are included:
 Please be informed that @PierreIsCoding and @Warpeggio, although having a technical background, are hobbyists. We build and share this project for fun and learning, so please let us know if you have any good improvements in mind! Warpeggio had a blast playing with this code and hopes you do too. :)
 
 Fixed: Swing sounds pretty good!
+
 New bug: The frequency output is slightly slower than the displayed BPM. The quantization seems to indicate rounding errors, and is probably deeply related to Warpeggios beat subdivision scheme.
+
 New bug: not all duty cycles are functioning for Quarter or Eighth notes, related again to rounding errors.
 
   
